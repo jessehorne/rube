@@ -1,0 +1,6 @@
+  - 'help' will show you a help menu
+  - 'quit' will exit the game
+  - 'look', 'l' will let you see your surroundings
+  - 'global your message here' will send a message to all players
+  - 'north', 'south', 'east', 'west' - Go north, south, east or west
+  - 'n', 's', 'e', 'w' - Go north, south, east or west
